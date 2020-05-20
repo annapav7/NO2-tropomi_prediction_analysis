@@ -1,4 +1,4 @@
-# NO2-tropomi_prediction_analysis
+# NO2 Detection/ Prediction Analysis from TROPOMI / Landsat
 The Repository is for NO2 Prediction Analysis Project from TROPOMI/ Landsat satellite images
 ## 1. Why NO2 is important?
 ### 1.1. How serious is the problem of Nitrogen pollution?
