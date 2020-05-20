@@ -1,6 +1,6 @@
 # NO2 Detection/ Prediction Analysis from TROPOMI / Landsat
 The Repository is for NO2 Prediction Analysis Project from TROPOMI/ Landsat satellite images
-## 1. Why NO2 is important?
+## 1. Background. Why NO2 is important?
 ### 1.1. How serious is the problem of Nitrogen pollution?
 Nitrogen oxide is a powerful greenhouse gas responsible for about 6% of human-induced warming to date.  
 It also damages the ozone layer, that protects life on earth by absorbing some of  the harmful ultraviolet radiation coming from the sun.
