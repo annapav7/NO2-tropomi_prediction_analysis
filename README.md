@@ -28,9 +28,9 @@ Uncertainty information enables decision-makers to assign their own thresholds.
 Machine learning algorithms can help scientists make use of ‘big data’.
 
 ## Python Packeges:
-### IPython 3.2.7
-### nympy: 1.9.2
-### scipy: 0.15.1
-### matplotlib: 1.4.3
-### sckit-learn: 0.15.2
-### seaborn: 0.5.1
+#### IPython 3.2.7
+#### nympy: 1.9.2
+#### scipy: 0.15.1
+#### matplotlib: 1.4.3
+#### sckit-learn: 0.15.2
+#### seaborn: 0.5.1
